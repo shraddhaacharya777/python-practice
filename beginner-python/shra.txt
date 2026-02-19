@@ -1,1 +1,3 @@
 hello guysss
+this is my first git practice file
+learning git is fun!!
